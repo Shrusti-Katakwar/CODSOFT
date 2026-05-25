@@ -123,6 +123,7 @@ These projects helped me strengthen my practical knowledge in Data Science and M
 
  🔗 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/shrusti-katakwar-a16051329/edit/intro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQejGEc%2BaT6Wu9wRYEim%2FYw%3D%3D
+  
 - GitHub: https://github.com/Shrusti-Katakwar
 
 ---
